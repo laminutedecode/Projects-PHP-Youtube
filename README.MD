@@ -16,7 +16,6 @@ Un système complet permettant aux utilisateurs de s'inscrire et de se connecter
 
 Une application permettant aux utilisateurs de laisser des commentaires sur des articles ou des publications, avec fonctionnalités de création, lecture, mise à jour et suppression de commentaires.
 
-Chaque projet est accompagné de son propre dossier contenant le code source et un README détaillant son fonctionnement, son installation et ses fonctionnalités.
 
 ## Comment Contribuer
 
